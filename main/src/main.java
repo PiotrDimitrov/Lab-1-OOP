@@ -9,8 +9,8 @@ import java.util.*;
 import java.util.Date;
 
 public class main {
-    private static final String STUDENT_FILE = "C:\\Student_Management\\src\\students.txt";
-    private static final String FACULTY_FILE = "C:\\Student_Management\\src\\faculties.txt";
+    private static final String STUDENT_FILE = "C:\\Users\\Tatiana\\Desktop\\Lab-1-OOP\\main\\src\\students.txt";
+    private static final String FACULTY_FILE = "C:\\Users\\Tatiana\\Desktop\\Lab-1-OOP\\main\\src\\faculties.txt";
 
     public static void main(String[] args) {
         List<Student> students = loadStudentsFromFIle();
